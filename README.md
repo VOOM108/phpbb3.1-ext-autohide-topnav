@@ -1,6 +1,6 @@
 # phpbb3.1-ext-autohide-topnav
 
-phpBB 3.1 Extension 
+phpBB 3.1 Extension (v1.1)
 Autohides the fixed topnav of Bootstrap phpBB Style (like Comboot) for 3.1 
 
 The user gets to choose between fixed and autohiding topnav in the UCP (display settings)
