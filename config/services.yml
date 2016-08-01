@@ -1,0 +1,9 @@
+services:
+    kilaya.autohidetopnav.listener:
+        class: kilaya\autohidetopnav\event\listener
+        arguments:
+            - @request
+            - @template
+            - @user
+        tags:
+            - { name: event.listener }
