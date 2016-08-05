@@ -3,8 +3,8 @@
 	"type": "phpbb-extension",
 	"description": "This extension adds the ability to autohide a fixed top nav e.g. in Bootstrap-styles like Comboot.",
 	"homepage": "",
-	"version": "1.2",
-	"time": "2016-08-04",
+	"version": "1.21",
+	"time": "2016-08-05",
 	"license": "GPL-2.0",
 	"authors": [
 			{
